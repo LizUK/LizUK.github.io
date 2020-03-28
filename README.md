@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio Page
 
-You can use the [editor on GitHub](https://github.com/LizUK/LizUK.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Elizabeth Phillips. I am a self taught Website developer who has been working with development for over 10 years. I have a strong grasps of HTML, CSS and WordPress. I have worked with both theme customisation and also custom theme development.
+More recently I have started to build up my knowledge of Javascript, JQuery and other popular and needed languages.
 
-### Markdown
+### Recent Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LizUK/LizUK.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|       |           |   |
+|:-------------:|:-------------:|:-------------:|
+| [*Simple Dice Game*](https://lizuk.github.io/Dice-Game/)     | [*Simon Game*](https://lizuk.github.io/Simon-Game/) | [*BMI Calculator*](https://lizuk.github.io/BMI-Calculator/) |
+| ![Image](https://github.com/LizUK/Dice-Game/blob/master/screenshot.png)      | ![Image](https://github.com/LizUK/Simon-Game/blob/master/images/screenshot.png)      |   ![Image](https://github.com/LizUK/BMI-Calculator/blob/master/images/screenshot.png) |
