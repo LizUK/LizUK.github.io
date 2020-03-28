@@ -10,4 +10,4 @@ More recently I have started to build up my knowledge of Javascript, JQuery and 
 | [*Simple Dice Game*](https://lizuk.github.io/Dice-Game/)     | [*Simon Game*](https://lizuk.github.io/Simon-Game/) | [*BMI Calculator*](https://lizuk.github.io/BMI-Calculator/) |
 | ![Image](https://raw.githubusercontent.com/LizUK/Dice-Game/master/screenshot.png)      | ![Image](https://raw.githubusercontent.com/LizUK/Simon-Game/master/images/screenshot.png)      |   ![Image](https://raw.githubusercontent.com/LizUK/BMI-Calculator/master/images/screenshot.png) |
 | [*Base Apparel Coming Soon page*](https://lizuk.github.io/Base-Apparel/)     |  |  |
-| ![Image](https://raw.githubusercontent.com/LizUK/Base-Apparel/master/images/screenshot.png)      |      |    |
+| ![Image](https://raw.githubusercontent.com/LizUK/Base-Apparel/master/images/screenshot.png)      | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.png)      |    |
