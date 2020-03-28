@@ -1,4 +1,4 @@
-## Welcome to my Portfolio Page
+## Welcome to my Portfolio
 
 My name is Elizabeth Phillips. I am a self taught Website developer who has been working with development for over 10 years. I have a strong grasps of HTML, CSS and WordPress. I have worked with both theme customisation and also custom theme development.
 More recently I have started to build up my knowledge of Javascript, JQuery and other popular and needed languages.
