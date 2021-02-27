@@ -11,6 +11,6 @@ More recently I have started to build up my knowledge of Javascript, JQuery and 
 | ![Image](https://raw.githubusercontent.com/LizUK/Dice-Game/master/screenshot.png)| ![Image](https://raw.githubusercontent.com/LizUK/Simon-Game/master/images/screenshot.png)|   ![Image](https://raw.githubusercontent.com/LizUK/BMI-Calculator/master/images/screenshot.png) |
 | [*Base Apparel Coming Soon page*](https://lizuk.github.io/Base-Apparel/)     | [*Pricing toggle componant*](https://lizuk.github.io/Pricing-toggle-componant/)  | [*Love Calculator*](https://lizuk.github.io/Love-Calculator/) |
 | ![Image](https://raw.githubusercontent.com/LizUK/Base-Apparel/master/images/screenshot.png)      |![Image](https://raw.githubusercontent.com/LizUK/Pricing-toggle-componant/master/images/screenshot.png)       | ![Image](https://raw.githubusercontent.com/LizUK/Love-Calculator/master/images/screenshot.jpg)   |
-[*Simple To-Do List*](https://immense-reef-78629.herokuapp.com/)     | |[*Signup form*](http://signup.elizabethcarolinesays.co.uk/)  |
+[*Simple To-Do List*](https://immense-reef-78629.herokuapp.com/)     |[*Signup form*](http://signup.elizabethcarolinesays.co.uk/)  | |
 | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/to%20do%20list.jpg)   |  ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/signup%20thumbnail.jpg)    |![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.png)   |
 
