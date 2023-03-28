@@ -1,9 +1,13 @@
 ## Welcome to my Portfolio
 
-My name is Elizabeth Phillips. I am a self taught Website developer who has been working with development for over 10 years. I have a strong grasps of HTML, CSS and WordPress. I have worked with both theme customisation and also custom theme development.
+My name is Elizabeth Phillips. I am a self taught Website developer who has been working with development for over 15 years. I have a strong grasps of HTML, CSS and WordPress. I have worked with both theme customisation and also custom theme development.
 More recently I have started to build up my knowledge of Javascript, JQuery and other popular and needed languages.
 
-### Recent Projects
+### 2023 Projects
+
+![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.png)
+
+### Older Projects
 
 |       |           |   |
 |:-------------:|:-------------:|:-------------:|
