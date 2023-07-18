@@ -6,7 +6,7 @@ More recently I have started to build up my knowledge of Javascript, JQuery and 
 ### 2023 Projects
 
 [*Signup Form*](https://lizuk.github.io/Signup-form/) | [*Rock, Paper, Scissors game*](https://lizuk.github.io/rock-paper-scissors/) | [*Etch-a-Sketch*](https://lizuk.github.io/Etch-a-Sketch/)
-![image](https://github.com/LizUK/LizUK.github.io/blob/d92b68d2d50f53f1ad83fba33ed57e4888a67ba8/Signup-page-thumbnail.jpg)) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/rock-paper-scissors.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/etchasketch-screen.jpg)  
+![image](https://github.com/LizUK/LizUK.github.io/blob/d92b68d2d50f53f1ad83fba33ed57e4888a67ba8/Signup-page-thumbnail.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/rock-paper-scissors.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/etchasketch-screen.jpg)  
 
 [*Mock landing page*](https://lizuk.github.io/My-Landing-Page/) | [* *]
 ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/landing-page.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.png) | 
