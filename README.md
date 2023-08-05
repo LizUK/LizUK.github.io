@@ -11,8 +11,8 @@ More recently I have started to build up my knowledge of Javascript, JQuery and 
 [*Mock landing page*](https://lizuk.github.io/My-Landing-Page/) | [*Mock Recipe Site*](https://lizuk.github.io/odin-recipes/) | [*Etch-a-Sketch*](https://lizuk.github.io/Etch-a-Sketch/)
 ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/landing-page.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/recipe-thumb.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/etchasketch-screen.jpg)  
 
- [*More Projects Coming Soon*]
-![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.jpg) | 
+ | [*More Projects Coming Soon*](https://lizuk.github.io/) |
+ | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.jpg) |
 
 ### Older Projects
 
