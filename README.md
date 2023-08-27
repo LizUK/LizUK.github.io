@@ -5,14 +5,14 @@ More recently I have started to build up my knowledge of Javascript, JQuery and 
 
 ### 2023 Projects
 
-[*Admin Dashboard*](https://lizuk.github.io/admin-dashboard/) | [*Signup Form*](https://lizuk.github.io/Signup-form/) | [*Rock, Paper, Scissors game*](https://lizuk.github.io/rock-paper-scissors/) 
-![image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/admin-thumbnail.jpg) | ![image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/Signup-page-thumbnail.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/rock-paper-scissors.jpg) 
+[*Library Bookshelf*](https://lizuk.github.io/My-BookShelf) | [*Admin Dashboard*](https://lizuk.github.io/admin-dashboard/) | [*Signup Form*](https://lizuk.github.io/Signup-form/) 
+![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/Library.jpg) | ![image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/admin-thumbnail.jpg) | ![image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/Signup-page-thumbnail.jpg)
 
-[*Mock landing page*](https://lizuk.github.io/My-Landing-Page/) | [*Mock Recipe Site*](https://lizuk.github.io/odin-recipes/) | [*Etch-a-Sketch*](https://lizuk.github.io/Etch-a-Sketch/)
-![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/landing-page.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/recipe-thumb.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/etchasketch-screen.jpg)  
+[*Rock, Paper, Scissors game*](https://lizuk.github.io/rock-paper-scissors/)  | [*Mock landing page*](https://lizuk.github.io/My-Landing-Page/) | [*Mock Recipe Site*](https://lizuk.github.io/odin-recipes/)
+![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/rock-paper-scissors.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/landing-page.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/recipe-thumb.jpg)   
 
- | [*More Projects Coming Soon*](https://lizuk.github.io/) |
- | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.jpg) |
+ [*Etch-a-Sketch*](https://lizuk.github.io/Etch-a-Sketch/) | [*More Projects Coming Soon*](https://lizuk.github.io/) |
+ ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/etchasketch-screen.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.jpg) |
 
 ### Older Projects
 
