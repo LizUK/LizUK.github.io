@@ -1,18 +1,21 @@
 ## Welcome to my Portfolio
 
-My name is Elizabeth Phillips. I am a self taught Website developer who has been working with development for over 15 years. I have a strong grasps of HTML, CSS. In the past I have worked with WordPress both on customisation and custom theme development.
+My name is Elizabeth Phillips. I am a self taught Website developer who has been working with development for over 15 years. I have a strong grasps of HTML, CSS and, in the past, I have worked with WordPress both on customisation and custom theme development.
 More recently I have started to build up my knowledge of Javascript, JQuery and other popular and needed languages.
 
 ### 2023 Projects
 
-[*Tic Tac Toe Game*](https://lizuk.github.io/TicTacToe/) | [*Library Bookshelf*](https://lizuk.github.io/My-BookShelf) | [*Admin Dashboard*](https://lizuk.github.io/admin-dashboard/) |
-![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/tictakthumb.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/Library.jpg) | ![image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/admin-thumbnail.jpg)
+[*Restaurant page*](https://lizuk.github.io/Umai/) | [*Tic Tac Toe Game*](https://lizuk.github.io/TicTacToe/) | [*Library Bookshelf*](https://lizuk.github.io/My-BookShelf) | 
+![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/umai.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/tictakthumb.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/Library.jpg) | 
 
-[*Signup Form*](https://lizuk.github.io/Signup-form/) | [*Rock, Paper, Scissors game*](https://lizuk.github.io/rock-paper-scissors/)  | [*Mock landing page*](https://lizuk.github.io/My-Landing-Page/) | 
-![image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/Signup-page-thumbnail.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/rock-paper-scissors.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/landing-page.jpg)
+[*Admin Dashboard*](https://lizuk.github.io/admin-dashboard/) | [*Signup Form*](https://lizuk.github.io/Signup-form/) | [*Rock, Paper, Scissors game*](https://lizuk.github.io/rock-paper-scissors/)  | 
+![image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/admin-thumbnail.jpg) | ![image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/Signup-page-thumbnail.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/rock-paper-scissors.jpg) | 
 
-[*Mock Recipe Site*](https://lizuk.github.io/odin-recipes/) | [*Etch-a-Sketch*](https://lizuk.github.io/Etch-a-Sketch/) | [*More Projects Coming Soon*](https://lizuk.github.io/) |
- ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/recipe-thumb.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/etchasketch-screen.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.jpg)
+[*Mock landing page*](https://lizuk.github.io/My-Landing-Page/) | [*Mock Recipe Site*](https://lizuk.github.io/odin-recipes/) | [*Etch-a-Sketch*](https://lizuk.github.io/Etch-a-Sketch/) |
+![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/landing-page.jpg) |  ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/recipe-thumb.jpg) | ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/etchasketch-screen.jpg) | 
+
+| [*More Projects Coming Soon*](https://lizuk.github.io/) | |
+| ![Image](https://raw.githubusercontent.com/LizUK/LizUK.github.io/master/stay%20tuned.jpg) | |
 
 ### Older Projects
 
